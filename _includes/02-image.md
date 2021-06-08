@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of happy cat](https://www.armandhammer.com/-/media/aah/feature/articles/cat-litter-articles/happy-cat.jpg)
